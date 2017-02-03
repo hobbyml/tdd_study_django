@@ -33,3 +33,23 @@ Full stack:
 1486112738147	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60185
 1486112738874	Marionette	INFO	Listening on port 60185
 [Child 2688] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486116109642	geckodriver	INFO	Listening on 127.0.0.1:52847
+1486116111646	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.s1SJdQfRYZLE
+1486116111663	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486116111667	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52853
+1486116112393	Marionette	INFO	Listening on port 52853
+1486116113562	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 10564] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486116143779	geckodriver	INFO	Listening on 127.0.0.1:52877
+1486116145810	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.wksTiHeK7ONX
+1486116145812	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486116145817	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52883
+1486116146391	Marionette	INFO	Listening on port 52883
+1486116147629	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 6928] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
