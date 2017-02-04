@@ -137,3 +137,59 @@ Full stack:
 1486168891377	Marionette	INFO	Listening on port 51656
 1486168892578	Marionette	WARN	Using deprecated data structure for setting timeouts
 [Child 8904] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486169546443	geckodriver	INFO	Listening on 127.0.0.1:51727
+1486169548497	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.fRGAzKxfrIjO
+1486169548500	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486169548504	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51733
+1486169549076	Marionette	INFO	Listening on port 51733
+1486169550399	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 6904] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486169808046	geckodriver	INFO	Listening on 127.0.0.1:51773
+1486169810091	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.TtAbko2nkI3m
+1486169810094	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486169810098	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51779
+1486169810691	Marionette	INFO	Listening on port 51779
+1486169811922	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 7752] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486187391655	geckodriver	INFO	Listening on 127.0.0.1:53688
+1486187393750	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.TYyw3C6p84Gx
+1486187393755	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486187393767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53695
+1486187394620	Marionette	INFO	Listening on port 53695
+1486187396005	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 12132] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486189561884	geckodriver	INFO	Listening on 127.0.0.1:53931
+1486189563906	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.7AOmeOQJ6yG8
+1486189563909	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486189563914	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53937
+1486189564501	Marionette	INFO	Listening on port 53937
+1486189565880	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 3548] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486189677762	geckodriver	INFO	Listening on 127.0.0.1:53977
+1486189679783	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.K1waIc6MLm0B
+1486189679786	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486189679791	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53983
+1486189680410	Marionette	INFO	Listening on port 53983
+1486189681698	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 7508] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486189853819	geckodriver	INFO	Listening on 127.0.0.1:54042
+1486189855841	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.swNVYvuHcBOM
+1486189855844	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486189855849	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54048
+1486189856437	Marionette	INFO	Listening on port 54048
+1486189857776	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 11532] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486189966665	geckodriver	INFO	Listening on 127.0.0.1:54096
+1486189968685	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.q8MmEoeeRZXE
+1486189968688	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486189968693	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54102
+1486189969342	Marionette	INFO	Listening on port 54102
+1486189970645	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 8064] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486190364983	geckodriver	INFO	Listening on 127.0.0.1:54189
+1486190367001	mozprofile::profile	INFO	Using profile path C:\Users\Go\AppData\Local\Temp\rust_mozprofile.18mrlJRSvLy7
+1486190367004	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1486190367009	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54195
+1486190367608	Marionette	INFO	Listening on port 54195
+1486190368955	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5564] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
